@@ -1,0 +1,5 @@
+turbopuffer
+voyageai
+openai
+numpy
+requests
